@@ -1,0 +1,6 @@
+$ brew install arm-linux-gnueabihf-binutils
+$ brew tap osx-cross/arm
+$ brew install arm-gcc-bin
+$ brew install llvm
+
+$ which gcc-arm-linux-gnueabi
